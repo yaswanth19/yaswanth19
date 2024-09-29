@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yaswanth19
 - 👀 I’m interested in coding and Machine Learning
-- 🌱 I’m currently learning GenAI
+- 🌱 I’m currently learning AI overall and exploring all the sub-domains.
 - 💞️ I’m looking to collaborate for Kaggle competitions [Link](https://www.kaggle.com/yaswanthgali)
 - 📫 Reach me on [ LinkedIn ](https://www.linkedin.com/in/yaswanth-gali/)
 
