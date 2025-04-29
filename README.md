@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @yaswanth19
+- 👋 Hi, I’m yaswanth Gali
 - 👀 I’m interested in coding and Machine Learning
 - 🌱 I’m currently learning AI overall and exploring all the sub-domains.
-- 💞️ I’m looking to collaborate for Kaggle competitions [Link](https://www.kaggle.com/yaswanthgali)
 - 📫 Reach me on [ LinkedIn ](https://www.linkedin.com/in/yaswanth-gali/)
 
-<!---
-yaswanth19/yaswanth19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaswanth19&show&icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
