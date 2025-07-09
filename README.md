@@ -1,6 +1,5 @@
 - 👋 Hi, I’m yaswanth Gali
-- 👀 I’m interested in coding and Machine Learning
-- 🌱 I’m currently learning AI overall and exploring all the sub-domains.
+- 👀 Everything and Anything about Machine Learning and AI.
 - 📫 Reach me on [ LinkedIn ](https://www.linkedin.com/in/yaswanth-gali/)
 
 Contributing to Hugging Face libraries in my spare time 🤗
