@@ -4,7 +4,7 @@
 
 Contributing to Hugging Face libraries in my spare time 🤗
 
-Contirbuted Models:
+Contributed Models:
 * [Janus](https://huggingface.co/docs/transformers/main/en/model_doc/janus) by Deepseek.
 * [EoMT](https://huggingface.co/docs/transformers/main/model_doc/eomt) by TU/e mps Lab.
 * [AIMv2](https://huggingface.co/docs/transformers/main/model_doc/aimv2) by Apple.
