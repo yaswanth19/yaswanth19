@@ -1,4 +1,4 @@
-- 👋 Hi, I’m yaswanth Gali
+- 👋 Hi, I’m Yaswanth Gali
 - 👀 Everything and Anything about Machine Learning and AI.
 - 📫 Reach me on [ LinkedIn ](https://www.linkedin.com/in/yaswanth-gali/)
 
